@@ -1,4 +1,5 @@
 # RAG
+# Edited by SWY
 This is my RAG program
 Config中为embedding模型和Milvus的配置
 monitoring中为目录监控，用于监控目录中的docx文档，将其分割和向量化后存入Milvus

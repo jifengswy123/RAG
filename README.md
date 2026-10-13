@@ -1,2 +1,6 @@
 # RAG
 This is my RAG program
+Config中为embedding模型和Milvus的配置
+monitoring中为目录监控，用于监控目录中的docx文档，将其分割和向量化后存入Milvus
+other中为分割docx文档的工具
+RAG中为在Milvus中搜索用户问题的答案，并给到大模型进行整理润色
